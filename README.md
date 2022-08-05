@@ -3,9 +3,9 @@
 <h1><a href="https://github.com/shwetathikekar">Shweta Thikekar</a><h2>
  
  ![cover](https://user-images.githubusercontent.com/72989187/183023975-4ea1c172-f005-4186-901a-683d59b4fa38.png)<br>
-<animated-image style="width: 50px;">
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
-</animated-image>
+
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: 5px;">
+
 
 
 
